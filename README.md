@@ -1,9 +1,9 @@
-# Awesome GPT-4 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GPT-43
 
 > A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 
 
-Website repository:
+Website repository: git@github.com:ComicFix-com/Awesome-GPT-43.git
 
 ## Contents
 
