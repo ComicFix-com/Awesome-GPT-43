@@ -3,7 +3,7 @@
 > A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 
 
-Website repository: https://github.com/radi-cho/awesome-gpt4-wbesite
+Website repository:
 
 ## Contents
 
