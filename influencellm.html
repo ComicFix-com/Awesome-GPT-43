@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>5,000 Prompts for LLM</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #6b5b95;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            max-height: 400px;
+            overflow-y: scroll;
+        }
+        li {
+            background-color: #fff;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+<h1>5,000 Prompts for LLM</h1>
+
+<ul id="prompt-list"></ul>
+
+<script>
+    const promptList = document.getElementById('prompt-list');
+
+    // Create 5000 prompts dynamically
+    for (let i = 1; i <= 5000; i++) {
+        const li = document.createElement('li');
+        li.textContent = `Prompt #${i}: Explain a concept or ask about a specific topic in web development or machine learning.`;
+        promptList.appendChild(li);
+    }
+</script>
+
+</body>
+</html>
