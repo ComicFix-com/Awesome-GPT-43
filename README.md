@@ -184,6 +184,7 @@ Action: Molecule search
 </details>
 
 <details>
+    
   <summary>Act as a mobile app developer</summary>
   
   Contributed by: [@radi-cho](https://github.com/radi-cho)
@@ -222,6 +223,257 @@ Action: Molecule search
   - Example for `concept`: "SHAP Gradient Explainer", see [output](https://gist.github.com/radi-cho/c75e128ec2c5f503c9eb4c5202e7987d).
   
 </details>
+# 50 Free AI Tools for Developers
+
+This list contains 50 free AI tools that developers can use to enhance their projects, from machine learning and computer vision to natural language processing and chatbot development.
+
+---
+
+## Table of Contents
+1. [Machine Learning Frameworks](#machine-learning-frameworks)
+2. [Natural Language Processing (NLP) Libraries](#natural-language-processing-nlp-libraries)
+3. [Computer Vision Tools](#computer-vision-tools)
+4. [Chatbot Development](#chatbot-development)
+5. [AI Code Assistance](#ai-code-assistance)
+6. [AI-Powered APIs](#ai-powered-apis)
+7. [Data Labeling & Management](#data-labeling--management)
+8. [Model Training & Deployment](#model-training--deployment)
+
+---
+
+### Machine Learning Frameworks
+
+1. **TensorFlow**  
+   A powerful open-source machine learning framework by Google.  
+   [TensorFlow](https://www.tensorflow.org/)
+
+2. **PyTorch**  
+   Developed by Facebook, PyTorch is widely used for deep learning.  
+   [PyTorch](https://pytorch.org/)
+
+3. **Scikit-Learn**  
+   A robust library for classical machine learning algorithms in Python.  
+   [Scikit-Learn](https://scikit-learn.org/)
+
+4. **Keras**  
+   A high-level neural network API running on top of TensorFlow.  
+   [Keras](https://keras.io/)
+
+5. **XGBoost**  
+   An optimized gradient boosting framework.  
+   [XGBoost](https://xgboost.readthedocs.io/)
+
+6. **LightGBM**  
+   A fast and efficient gradient boosting framework by Microsoft.  
+   [LightGBM](https://lightgbm.readthedocs.io/)
+
+7. **MLflow**  
+   A platform for managing the machine learning lifecycle.  
+   [MLflow](https://mlflow.org/)
+
+8. **CatBoost**  
+   A gradient boosting library developed by Yandex.  
+   [CatBoost](https://catboost.ai/)
+
+9. **ONNX**  
+   An open format for machine learning models, enabling easy export and deployment.  
+   [ONNX](https://onnx.ai/)
+
+10. **Apache MXNet**  
+    A deep learning framework for both symbolic and imperative programming.  
+    [MXNet](https://mxnet.apache.org/)
+
+---
+
+### Natural Language Processing (NLP) Libraries
+
+11. **spaCy**  
+    An industrial-strength NLP library for Python.  
+    [spaCy](https://spacy.io/)
+
+12. **Hugging Face Transformers**  
+    Pre-trained models for natural language processing tasks.  
+    [Transformers](https://huggingface.co/transformers/)
+
+13. **NLTK**  
+    A leading platform for building Python programs to work with human language data.  
+    [NLTK](https://www.nltk.org/)
+
+14. **OpenNLP**  
+    A machine learning-based toolkit for the processing of natural language text.  
+    [OpenNLP](https://opennlp.apache.org/)
+
+15. **Gensim**  
+    A library for topic modeling and document similarity analysis.  
+    [Gensim](https://radimrehurek.com/gensim/)
+
+16. **T5 by Google**  
+    Text-to-text transformer pre-trained models by Google Research.  
+    [T5 Models](https://github.com/google-research/text-to-text-transfer-transformer)
+
+17. **AllenNLP**  
+    A research-focused library built on top of PyTorch for deep learning in NLP.  
+    [AllenNLP](https://allennlp.org/)
+
+18. **Flair**  
+    Simple NLP for text classification, NER, POS tagging, etc.  
+    [Flair](https://github.com/flairNLP/flair)
+
+19. **Stanza**  
+    A Python NLP library by Stanford.  
+    [Stanza](https://stanfordnlp.github.io/stanza/)
+
+20. **TextBlob**  
+    Simplifies text processing like classification, translation, etc.  
+    [TextBlob](https://textblob.readthedocs.io/)
+
+---
+
+### Computer Vision Tools
+
+21. **OpenCV**  
+    A library mainly aimed at real-time computer vision.  
+    [OpenCV](https://opencv.org/)
+
+22. **Detectron2**  
+    A high-performance object detection and segmentation library.  
+    [Detectron2](https://github.com/facebookresearch/detectron2)
+
+23. **YOLO (You Only Look Once)**  
+    A real-time object detection system.  
+    [YOLO](https://github.com/AlexeyAB/darknet)
+
+24. **dlib**  
+    A toolkit for machine learning and computer vision tasks.  
+    [dlib](http://dlib.net/)
+
+25. **face_recognition**  
+    The world's simplest facial recognition API for Python.  
+    [face_recognition](https://github.com/ageitgey/face_recognition)
+
+26. **Albumentations**  
+    A fast image augmentation library.  
+    [Albumentations](https://albumentations.ai/)
+
+27. **Segmentation Models**  
+    Pre-trained models for image segmentation tasks.  
+    [Segmentation Models](https://github.com/qubvel/segmentation_models)
+
+28. **DeepLab**  
+    State-of-the-art semantic segmentation model by Google Research.  
+    [DeepLab](https://github.com/tensorflow/models/tree/master/research/deeplab)
+
+29. **Kornia**  
+    Open-source differentiable computer vision library.  
+    [Kornia](https://kornia.org/)
+
+30. **Super-Resolution**  
+    High-quality image upscaling with super-resolution techniques.  
+    [Super-Resolution](https://github.com/fannymonori/TF-ESPCN)
+
+---
+
+### Chatbot Development
+
+31. **Rasa**  
+    An open-source conversational AI framework.  
+    [Rasa](https://rasa.com/)
+
+32. **BotPress**  
+    A popular open-source chatbot creation framework.  
+    [BotPress](https://botpress.com/)
+
+33. **Microsoft Bot Framework**  
+    A comprehensive framework for building bots.  
+    [Bot Framework](https://dev.botframework.com/)
+
+34. **ChatterBot**  
+    A machine learning-based conversational AI engine.  
+    [ChatterBot](https://github.com/gunthercox/ChatterBot)
+
+35. **Dialogflow**  
+    A Google tool for creating conversational agents.  
+    [Dialogflow](https://dialogflow.cloud.google.com/)
+
+---
+
+### AI Code Assistance
+
+36. **GitHub Copilot**  
+    AI-powered code suggestions from GitHub and OpenAI.  
+    [GitHub Copilot](https://github.com/features/copilot)
+
+37. **Tabnine**  
+    AI-powered code completion assistant for developers.  
+    [Tabnine](https://www.tabnine.com/)
+
+38. **CodeT5**  
+    A text-to-code model from Salesforce.  
+    [CodeT5](https://github.com/salesforce/CodeT5)
+
+39. **Replit Ghostwriter**  
+    AI-powered code completion for the Replit IDE.  
+    [Replit Ghostwriter](https://replit.com/site/ghostwriter)
+
+40. **Kite**  
+    An AI-powered coding assistant.  
+    [Kite](https://www.kite.com/)
+
+---
+
+### AI-Powered APIs
+
+41. **OpenAI GPT-3**  
+    A powerful language model API by OpenAI.  
+    [GPT-3](https://beta.openai.com/)
+
+42. **IBM Watson**  
+    AI services such as language, speech, and vision.  
+    [IBM Watson](https://www.ibm.com/watson)
+
+43. **Google Cloud AI**  
+    A set of APIs for AI services from Google Cloud.  
+    [Google Cloud AI](https://cloud.google.com/products/ai)
+
+44. **Azure AI**  
+    Microsoft Azure’s AI-powered services.  
+    [Azure AI](https://azure.microsoft.com/en-us/services/cognitive-services/)
+
+45. **AssemblyAI**  
+    A simple API for speech-to-text and NLP tasks.  
+    [AssemblyAI](https://www.assemblyai.com/)
+
+---
+
+### Data Labeling & Management
+
+46. **Labelbox**  
+    A collaborative platform for labeling data.  
+    [Labelbox](https://labelbox.com/)
+
+47. **Supervisely**  
+    A web platform for computer vision labeling tasks.  
+    [Supervisely](https://supervise.ly/)
+
+48. **Diffgram**  
+    An open-source data platform for labeling and automation.  
+    [Diffgram](https://www.diffgram.com/)
+
+---
+
+### Model Training & Deployment
+
+49. **Google Colab**  
+    Free cloud notebooks for training and running machine learning models.  
+    [Google Colab](https://colab.research.google.com/)
+
+50. **Streamlit**  
+    An open-source app framework to turn data scripts into shareable web apps.  
+    [Streamlit](https://streamlit.io/)
+
+---
+
+Happy coding! 🎉
 
 
 ## Contributing
